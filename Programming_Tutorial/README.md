@@ -128,6 +128,11 @@ statphys/Scripts/activate
 ```
 で仮想環境を有効化する。
 
+### 2.3 必要なライブラリのインストール
+必要なライブラリをstatphys環境にインストールする。(下記のライブラリで大体は事足りる。)
+```
+pip install numpy matplotlib jupyter scipy
+```
 
 
 ## 3. VSCodeのインストール　
